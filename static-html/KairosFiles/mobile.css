@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+
+body #topmenu{ width:298px!important; margin:0 auto; overflow:hidden;}
+body .center{width:300px!important; margin: 0 auto; overflow:hidden;}
+body #slider li{width:300px!important; height:228px!important;}
+body #slider li img{ width:300px; height:108px!important;}
+body .slider-content{ background:#000!important; background-image:none; height:120px!important;}
+body .slider-content h2{ margin-top:10px!important;}
+body .slider-content p{ width:270px!important;}
+
+body .midrow_blocks, .midrow_blocks_wrap{ width:268px!important; height:auto!important;}
+body .midrow_block{width:278px!important; height:auto;}
+body .mid_block_content{border-right:none; height:auto;}
+
+body .lay1 .hentry{ width:268px;}
+body .lay1 .hentry img, body #footer{ width:268px;}
+body #footer .widgets .widget{ width:247px;}
+
+#footmenu{ display:none;}
+
+body .single_post{ width:266px;}
+body .comments_template{ width:298px;}
+body #commentform{ margin-bottom:20px; width:268px;}
+.single-post .navigation{ display:none;}
+body .single_post .post img, body .type-page img, body .type-attachment img{ max-width:266px; height:auto; border:none;}
+
+
+
+body .field_wrap{width:268px;}
+body .comment-form-author input, body .comment-form-email input, body .comment-form-url input{ width:190px;}
+
+body .comment-form-comment{ width:268px;}
+body .comment-form-comment textarea{ width:240px;}
+
+
+body #sidebar .widgets .widget{ width:266px; float:left;}
+body #sidebar .widgettitle, body #sidebar .widgettitle a{ width:286px;}
+body #sidebar{width: 298px; margin-top:20px;}
+
+
+.share_this .social_buttons div{ margin-bottom:15px;}
+
+.skew_bottom_big, .skew_bottom_right, .skew_top_big, .skew_top_right, .single_skew, .single_skew .skew_bottom_big, .single_skew .skew_bottom_right, .depth-1 .single_skew, .single_skew_comm, .single_skew_comm .skew_top_big, .single_skew_comm .skew_top_right, #respond_wrap .single_skew, #respond_wrap .single_skew_comm{display:none!important;}
+
+
+body #copyright{ margin-bottom:50px; width:298px;}
+body .copytext{ width:268px;}
+
+
+.tinynav, .tinynav1{ display: block!important; margin:20px auto 0px auto; width:280px; height:30px}
+#topmenu ul.menu{ display: none; }
+#logo img{max-width:300px;}
+
+
+
+.social_wrap{ display:none;}
+body .lgn_scs, body .lgn_info, body .lgn_wng, body .lgn_err{ width:228px;}
+
+#slider{height:230px;!important;}
+.single_wrap{width:300px;}
+.page-template-page-full_width-php .single_post, .error404 .single_wrap, .error404 .single_post{width:266px;}
+
+

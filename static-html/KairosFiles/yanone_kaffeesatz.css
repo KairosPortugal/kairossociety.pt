@@ -1,0 +1,75 @@
+@font-face {
+
+    font-family: 'YanoneKaffeesatzRegular';
+
+    src: url('../fonts/yanone_kaffeesatz/yanonekaffeesatz-regular-webfont.eot');
+
+    src: url('../fonts/yanone_kaffeesatz/yanonekaffeesatz-regular-webfont.eot?iefix') format('eot'),
+
+         url('../fonts/yanone_kaffeesatz/yanonekaffeesatz-regular-webfont.woff') format('woff'),
+
+         url('../fonts/yanone_kaffeesatz/yanonekaffeesatz-regular-webfont.ttf') format('truetype'),
+
+         url('../fonts/yanone_kaffeesatz/yanonekaffeesatz-regular-webfont.svg#webfontiVAlVXNY') format('svg');
+
+    font-weight: normal;
+
+    font-style: normal;
+
+
+
+}
+
+
+
+.lay1 .block_comm a, .lay2 .block_comm a, .lay3 .block_comm a{ float: left;line-height: 9px;margin-left: -3px;padding-top: 9px;text-align: center; font-family: Georgia; letter-spacing: 0.05em; font-weight: normal!important;}
+
+.lay1 .block_comm span, .lay2 .block_comm span, .lay3 .block_comm span{ float: left;line-height: 9px;margin-left: 3px;padding-top: 14px;text-align: center; font-family: Georgia; letter-spacing: 0.05em; font-weight: normal!important;}
+
+	
+
+h1, h2, h3, h4, h5, h6, .trt_button a, #submit_msg, #submit_msg, #submit, .fourofour a, .trt_wgt_tt, #related ul li a, .logo h1 a, #slider .slider-content h2 a, .lay1 .post .postitle a, .lay1 .page .postitle a, #topmenu ul li a{ font-family: 'Oswald', sans-serif;  font-weight: 400;}
+
+h1{ font-size:40px; }
+
+h2{ font-family: 'Oswald',sans-serif;
+    font-size:24px;
+    font-weight: 400;
+    line-height: 34px;
+    margin-bottom: 0;
+    padding: 0;
+    text-align: center;
+	color:#666;
+	text-transform:uppercase;
+	}
+
+h3{font-size:18px; font-family: 'Oswald',sans-serif;
+    
+    font-weight: 400;
+    line-height: 34px;
+    margin-bottom: 0;
+    padding: 0;
+    text-align: center;
+	text-transform:uppercase;
+	color:#666;
+	}
+
+h4{font-size:18px;}
+
+h5{font-size:14px;}
+
+h6{font-size:12px;}
+
+	
+
+.single_page_post .postitle a{ font-size:24px;}
+
+#related .post_title, #submit_msg, #submit{font-family: Georgia !important;font-size:14px!important;}
+
+#topmenu ul li a{font-size:15px!important;}
+
+
+
+#sidebar .widgets .widget ul li .znn_wgt_tt, #midrow .widgets .widget ul li .znn_wgt_tt, #footer .widgets .widget ul li .znn_wgt_tt{ font-family: Georgia; letter-spacing: 0.05em; font-weight: normal!important; font-size:15px;}
+
+.lay1 .post_content h2 a{ font-size:24px!important;}
